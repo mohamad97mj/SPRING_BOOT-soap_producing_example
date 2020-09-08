@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ad3ee9c-4287-4a48-bfba-d58781fda85c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/request.xml" beforeDir="false" afterPath="$PROJECT_DIR$/request.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/CountryEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/CountryEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/CountryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/CountryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/WebServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/producingwebservice/WebServiceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/countries.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/countries.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/producingwebservice/ProducingWebServiceApplicationIntegrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/producingwebservice/ProducingWebServiceApplicationIntegrationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hDL2bgdge72gwyNS9FiR8iLVut" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gs-consuming-web-service/complete/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProducingWebServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="producing-web-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.producingwebservice.ProducingWebServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ad3ee9c-4287-4a48-bfba-d58781fda85c" name="Default Changelist" comment="" />
+      <created>1599540509852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599540509852</updated>
+      <workItem from="1599540514744" duration="693000" />
+      <workItem from="1599542498776" duration="6486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="142" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599543152400">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="142" width="424" height="491" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599543152400" />
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1599551254519">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599551254519" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center" timestamp="1599551254517">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599551254517" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left" timestamp="1599551254516">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599551254516" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right" timestamp="1599551254518">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599551254518" />
+    <state x="166" y="0" width="1024" height="768" key="SettingsEditor" timestamp="1599540526614">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="166" y="0" width="1024" height="768" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599540526614" />
+    <state x="374" y="123" width="758" height="522" key="find.popup" timestamp="1599551174785">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="374" y="123" width="758" height="522" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1599551174785" />
+    <state x="347" y="167" width="672" height="677" key="run.anything.popup" timestamp="1599551113659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1599551113659" />
+  </component>
+</project>
